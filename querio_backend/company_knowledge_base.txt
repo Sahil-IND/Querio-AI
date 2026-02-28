@@ -1,0 +1,88 @@
+==============================
+COMPANY KNOWLEDGE BASE
+==============================
+
+GENERAL INFORMATION
+Our company provides online technical courses including DSA, Web Development, AI/ML, and Cloud Computing.
+We currently operate in India, US, UK, and Canada.
+
+---------------------------------------------------
+REFUND POLICY
+---------------------------------------------------
+Customers may request a full refund within 30 days of purchase.
+Refunds are not applicable on discounted or promotional items.
+For course subscriptions, refunds are allowed within 14 days.
+Refunds are processed within 5–7 business days after approval.
+Refund requests must be submitted via email to support@company.com.
+Refunds are credited to the original payment method.
+
+---------------------------------------------------
+COURSE DETAILS
+---------------------------------------------------
+DSA Course:
+- Duration: 120 hours
+- Includes 300+ coding problems
+- Lifetime access
+- 20 mock interviews
+- Certification provided
+
+AI/ML Course:
+- Duration: 150 hours
+- Includes 25 real-world projects
+- Internship assistance provided
+- Access to private community
+
+Web Development Course:
+- Duration: 100 hours
+- Includes React, Node.js, MongoDB
+- 15 hands-on projects
+
+Cloud Computing Course:
+- Duration: 80 hours
+- Covers AWS, Azure basics
+- Certification exam guidance included
+
+---------------------------------------------------
+SUPPORT POLICY
+---------------------------------------------------
+Support is available Monday to Friday, 9 AM to 6 PM IST.
+Average response time is within 24 hours.
+Priority support is available for premium members.
+Live chat support is available during working hours.
+Email support is available 24/7.
+
+---------------------------------------------------
+PRICING POLICY
+---------------------------------------------------
+Prices are subject to change without prior notice.
+Seasonal discounts may be offered.
+Bulk purchase discounts are available for institutions.
+Coupons cannot be combined with other offers.
+
+---------------------------------------------------
+PRIVACY POLICY
+---------------------------------------------------
+We do not share customer data with third parties.
+Customer data is encrypted and securely stored.
+Users can request account deletion at any time.
+
+---------------------------------------------------
+CANCELLATION POLICY
+---------------------------------------------------
+Subscriptions can be cancelled anytime.
+No refund is provided after 30 days for one-time purchases.
+Recurring subscriptions stop immediately upon cancellation.
+
+---------------------------------------------------
+INTERNSHIP PROGRAM
+---------------------------------------------------
+Selected students get internship opportunities.
+Internship duration: 3 months.
+Performance-based stipend provided.
+
+---------------------------------------------------
+CERTIFICATION POLICY
+---------------------------------------------------
+Certificates are issued after successful course completion.
+Minimum 60% score required in final assessment.
+Certificates are verifiable via QR code.

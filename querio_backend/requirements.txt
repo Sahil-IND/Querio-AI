@@ -1,0 +1,21 @@
+# -------- Core API --------
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+python-multipart
+requests
+streamlit
+
+# -------- LLM & Embeddings --------
+ollama
+chromadb
+
+# -------- Database (Text-to-SQL) --------
+sqlalchemy
+psycopg2-binary   # or sqlite3 (built-in)
+
+# -------- Utilities --------
+python-dotenv
+numpy
+pandas

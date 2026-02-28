@@ -1,0 +1,16 @@
+# Environment
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual env
+.venv/
+
+# Vector DB
+data/chroma/
+data/chunks/
+
+# Uploaded docs
+data/uploads/

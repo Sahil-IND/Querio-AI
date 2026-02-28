@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-gradient-to-br from-gray-900 via-gray-800 to-gray-900 text-gray-100 antialiased font-sans;
+  }
+}
+
+@layer utilities {
+  .glass {
+    @apply bg-white/5 backdrop-blur-md border border-white/10 shadow-xl;
+  }
+  .glass-card {
+    @apply glass rounded-2xl p-6 transition-all duration-300 hover:bg-white/[0.02] hover:border-white/20 hover:shadow-2xl hover:shadow-blue-500/5;
+  }
+  .text-gradient {
+    @apply bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent;
+  }
+}
+
+/* Custom scrollbar for recent uploads */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 4px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 10px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: rgba(59, 130, 246, 0.3);
+  border-radius: 10px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: rgba(59, 130, 246, 0.5);
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Better hover effects for all interactive elements */
+button, a, .clickable {
+  @apply transition-all duration-200;
+}
+
+/* Subtle hover for glass cards */
+.glass-card:hover {
+  @apply border-white/20;
+  box-shadow: 0 20px 40px -15px rgba(0, 0, 0, 0.3);
+}
+
+/* Button hover effects */
+.btn-hover {
+  @apply relative overflow-hidden transition-all duration-300;
+}
+
+.btn-hover::after {
+  content: '';
+  @apply absolute inset-0 bg-white opacity-0 transition-opacity duration-300;
+}
+
+.btn-hover:hover::after {
+  @apply opacity-5;
+}
+
+/* Navbar link hover */
+.nav-link-hover {
+  @apply relative;
+}
+
+.nav-link-hover::after {
+  content: '';
+  @apply absolute bottom-0 left-1/2 -translate-x-1/2 w-0 h-0.5 bg-blue-400 transition-all duration-300;
+}
+
+.nav-link-hover:hover::after {
+  @apply w-full;
+}
+
+/* Stats card hover */
+.stat-card-hover {
+  @apply transition-all duration-300;
+}
+
+.stat-card-hover:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 30px -10px rgba(59, 130, 246, 0.2);
+}

@@ -1,0 +1,368 @@
+========================================================================
+                    QUERIO ENTERPRISE KNOWLEDGE BASE
+                          Version 2.0 | March 2026
+========================================================================
+
+1. COMPANY OVERVIEW
+   =================
+   Querio is an enterprise AI intelligence platform helping companies
+   unlock insights from their structured and unstructured data.
+   
+   Founded: 2023
+   Headquarters: San Francisco, CA
+   Employees: 350+ globally
+   Customers: 2,500+ companies including 150 Fortune 500
+   Annual Revenue: $45M ARR
+   Growth Rate: 120% YoY
+
+2. PRODUCT OFFERINGS
+   ==================
+   
+   2.1 Querio Analytics Pro
+   -------------------------
+   - Real-time SQL analytics with natural language interface
+   - Custom dashboards and reporting
+   - Data visualization suite with 50+ chart types
+   - Scheduled reports and alerts
+   - Pricing: $299/month or $2,990/year (20% discount)
+   
+   2.2 Querio Secure Gateway
+   -------------------------
+   - Enterprise SSO integration (Okta, Azure AD, Google Workspace)
+   - Role-based access control (RBAC) with custom roles
+   - Audit logs and compliance reporting
+   - Data encryption at rest and in transit
+   - SOC2 Type II certified
+   - Pricing: $499/month or $4,990/year
+   
+   2.3 Querio Team Collab
+   ------------------------
+   - Shared workspaces and folders
+   - Real-time collaboration on queries
+   - Comments and annotations
+   - Version history and rollback
+   - Team templates and saved queries
+   - Pricing: $99/month or $990/year
+   
+   2.4 Querio AI Assistant
+   -----------------------
+   - Natural language query generation
+   - Automated insight discovery
+   - Anomaly detection and alerts
+   - Predictive analytics
+   - Custom AI model training
+   - Pricing: $199/month or $1,990/year
+   
+   2.5 Querio Cloud Backup
+   -----------------------
+   - Automated daily backups
+   - 30-day retention (standard)
+   - 1-year retention (enterprise)
+   - Point-in-time recovery
+   - Cross-region replication
+   - Pricing: $149/month or $1,490/year
+
+3. PRICING & PLANS
+   ================
+   
+   3.1 Free Plan
+   -------------
+   - 1 user
+   - 100 queries/month
+   - Basic SQL analytics
+   - 7-day data retention
+   - Community support
+   
+   3.2 Starter Plan - $99/month
+   -----------------------------
+   - Up to 5 users
+   - 1,000 queries/month
+   - All core features
+   - 30-day data retention
+   - Email support (24h response)
+   
+   3.3 Pro Plan - $499/month
+   --------------------------
+   - Up to 20 users
+   - 10,000 queries/month
+   - Advanced analytics
+   - 90-day data retention
+   - Priority support (4h response)
+   - SSO integration
+   - API access
+   
+   3.4 Enterprise Plan - Custom pricing
+   ------------------------------------
+   - Unlimited users
+   - Unlimited queries
+   - Custom AI model training
+   - 1-year data retention
+   - 24/7 dedicated support (1h response)
+   - On-premise deployment option
+   - Custom SLA
+   - Compliance reporting (SOC2, HIPAA, GDPR)
+
+4. SUPPORT POLICY
+   ===============
+   
+   4.1 Support Hours
+   -----------------
+   - Standard: 24/5 (Monday-Friday)
+   - Enterprise: 24/7/365
+   - Holiday coverage for Enterprise clients
+   
+   4.2 Response Times
+   ------------------
+   - Free: Best effort, no SLA
+   - Starter: 24 hours
+   - Pro: 4 hours (business hours)
+   - Enterprise: 1 hour (anytime)
+   - Critical issues: 15 minutes for Enterprise
+   
+   4.3 Support Channels
+   --------------------
+   - Email: support@querio.ai
+   - Live chat: Available in-app (Pro/Enterprise)
+   - Phone: +1 (888) 555-0123 (Enterprise only)
+   - Slack/Discord: Private channels for Enterprise
+   - Knowledge Base: help.querio.ai
+
+5. REFUND POLICY
+   ==============
+   
+   5.1 Monthly Subscriptions
+   -------------------------
+   - Full refund within first 7 days
+   - Pro-rated refund after 7 days (unused portion)
+   - No refund after 15 days
+   
+   5.2 Annual Subscriptions
+   ------------------------
+   - Full refund within first 30 days
+   - 50% refund within first 90 days
+   - No refund after 90 days
+   - Exception: Enterprise contracts are non-refundable
+   
+   5.3 Special Cases
+   -----------------
+   - Duplicate charges: Immediate full refund
+   - Technical issues preventing usage: Case-by-case review
+   - Involuntary churn (payment failure): 14-day grace period
+   - Enterprise contracts: Subject to contract terms
+
+6. SERVICE LEVEL AGREEMENT (SLA)
+   ==============================
+   
+   6.1 Uptime Guarantee
+   --------------------
+   - Free: 99.5% (best effort)
+   - Starter: 99.9% uptime
+   - Pro: 99.95% uptime
+   - Enterprise: 99.99% uptime
+   
+   6.2 Credits for Downtime
+   ------------------------
+   - <99.9%: 10% credit
+   - <99.5%: 25% credit
+   - <99.0%: 50% credit
+   - Credits applied to next invoice
+   
+   6.3 Maintenance Windows
+   -----------------------
+   - Scheduled: Sundays 2-4 AM PST
+   - Emergency: Notified 24 hours in advance
+   - Enterprise: Custom maintenance windows available
+
+7. SECURITY & COMPLIANCE
+   ======================
+   
+   7.1 Certifications
+   ------------------
+   - SOC2 Type II (audited annually)
+   - ISO 27001:2022
+   - GDPR compliant
+   - HIPAA compliant (Enterprise only)
+   - FedRAMP "In Process" (Enterprise only)
+   
+   7.2 Data Encryption
+   -------------------
+   - At rest: AES-256
+   - In transit: TLS 1.3
+   - Backups: Encrypted with separate keys
+   - Bring Your Own Key (BYOK) for Enterprise
+   
+   7.3 Data Privacy
+   ----------------
+   - No third-party data sharing
+   - Data processed in region of choice
+   - Right to deletion (GDPR)
+   - Data Processing Agreement (DPA) included
+   - Sub-processors list available on request
+   
+   7.4 Audit Logs
+   --------------
+   - 90-day retention (Pro)
+   - 1-year retention (Enterprise)
+   - Exportable in JSON/CSV format
+   - SIEM integration available
+
+8. CANCELLATION POLICY
+   ====================
+   
+   8.1 Monthly Plans
+   -----------------
+   - Cancel anytime
+   - Access until end of billing period
+   - Data export available for 30 days
+   - Automatic permanent deletion after 30 days
+   
+   8.2 Annual Plans
+   ----------------
+   - Cancel anytime
+   - Pro-rated refund for remaining months
+   - Data export window: 60 days
+   
+   8.3 Enterprise Contracts
+   ------------------------
+   - Subject to contract terms
+   - Typically 30-day notice required
+   - Data migration assistance available
+   
+   8.4 Data Export
+   ---------------
+   - All plans: Export via UI or API
+   - Enterprise: Custom data migration support
+   - Formats: CSV, JSON, Parquet
+   - Additional cost for large exports (>100GB)
+
+9. BILLING & INVOICING
+   ====================
+   
+   9.1 Payment Methods
+   -------------------
+   - Credit cards (Visa, Mastercard, Amex)
+   - ACH/wire transfer (Enterprise only)
+   - PayPal (Pro and below)
+   - Purchase orders accepted (Enterprise)
+   
+   9.2 Invoicing
+   -------------
+   - Automatic invoices generated monthly
+   - PDF invoices available in billing portal
+   - VAT/GST invoices available
+   - Enterprise: Custom invoicing schedules
+   
+   9.3 Late Payments
+   -----------------
+   - 5-day grace period
+   - Service suspension after 15 days
+   - Data locked after 30 days
+   - Data deleted after 60 days
+   - Reactivation fee: $100
+   
+   9.4 Currency
+   ------------
+   - USD (default)
+   - EUR, GBP, JPY available (Enterprise)
+   - Exchange rates locked at billing
+
+10. FEATURE ROADMAP
+    ================
+    
+    Q2 2026 (April - June)
+    ----------------------
+    - Natural language to dashboard
+    - Mobile app (iOS/Android)
+    - Slack integration
+    - Custom alerts and notifications
+    
+    Q3 2026 (July - September)
+    --------------------------
+    - Multi-region support
+    - Data lineage tracking
+    - ML model marketplace
+    - Real-time streaming analytics
+    
+    Q4 2026 (October - December)
+    ----------------------------
+    - Graph analytics
+    - Time-series forecasting
+    - Blockchain data support
+    - Voice interface
+
+11. PARTNER PROGRAM
+    ================
+    
+    11.1 Technology Partners
+    ------------------------
+    - AWS, Google Cloud, Azure
+    - Snowflake, Databricks
+    - Salesforce, HubSpot
+    - Slack, Microsoft Teams
+    
+    11.2 Consulting Partners
+    ------------------------
+    - Deloitte, PwC, EY
+    - Accenture
+    - McKinsey
+    - Local regional partners in 15 countries
+    
+    11.3 Referral Program
+    ---------------------
+    - 20% commission first year
+    - 10% recurring for existing clients
+    - Marketing materials provided
+    - Dedicated partner portal
+
+12. CASE STUDIES
+    =============
+    
+    12.1 Fortune 500 Retailer
+    -------------------------
+    - 40% reduction in report generation time
+    - $2.5M annual savings in analyst hours
+    - 300+ users across 15 departments
+    - ROI achieved in 4 months
+    
+    12.2 Mid-Size Healthcare Provider
+    ---------------------------------
+    - 60% faster patient data analysis
+    - HIPAA compliance achieved
+    - 150+ hours saved monthly
+    - 98% user satisfaction
+    
+    12.3 Tech Startup
+    -----------------
+    - Scaled from 10 to 200 users in 6 months
+    - 80% reduction in data team tickets
+    - $500k saved in hiring costs
+    - Featured in TechCrunch
+
+=====================================================
+RETENTION STRATEGY FOR HIGH-RISK COMPANIES
+=====================================================
+
+1. PROACTIVE OUTREACH PROGRAM
+   - Monthly health checks for companies with churn risk > 0.5
+   - Dedicated customer success manager assigned
+   - Personalized usage reports and recommendations
+
+2. RETENTION OFFERS
+   - 15% discount for 6 months for high-risk companies
+   - Free onboarding session for underutilized features
+   - Extended trial of premium features
+
+3. ESCALATION PROCESS
+   - Week 1: Automated check-in email
+   - Week 2: Customer success manager call
+   - Week 3: Account executive review
+   - Week 4: Retention specialist intervention
+
+4. SUCCESS METRICS
+   - 65% of high-risk companies retained after intervention
+   - Average 40% increase in usage after retention calls
+   - 90% satisfaction rate with retention offers
+
+========================================================================
+                    END OF KNOWLEDGE BASE
+========================================================================
