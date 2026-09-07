@@ -15,7 +15,7 @@
 
 ## 📋 Overview
 
-Querio is an enterprise-grade AI intelligence platform that bridges the gap between structured and unstructured data. It combines three powerful capabilities into one seamless experience:
+Querio is an AI intelligence platform that bridges the gap between structured and unstructured data. It combines three powerful capabilities into one seamless experience:
 
 | Component         | Capability                        | Technology                        |
 |------------------|-----------------------------------|-----------------------------------|
