@@ -234,8 +234,8 @@ querio/
 
 ### Step 1: Clone the Repository
 ```bash
-https://github.com/Sahil-IND/Querio-AI.git
-cd querio
+git clone https://github.com/Sahil-IND/Querio-AI.git
+cd Querio-AI
 ```
 
 ### Step 2: Database Setup (Supabase/PostgreSQL)
