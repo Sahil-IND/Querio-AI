@@ -234,7 +234,7 @@ querio/
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/querio.git
+https://github.com/Sahil-IND/Querio-AI.git
 cd querio
 ```
 
